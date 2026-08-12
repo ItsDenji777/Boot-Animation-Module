@@ -5,8 +5,6 @@
 *.swp
 *~
 
-# Personal upload folder content
-upload/*
 !upload/.gitkeep
 
 # Local development
